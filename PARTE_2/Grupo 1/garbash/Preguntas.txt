@@ -1,0 +1,4 @@
+1.- que es bart?
+2.- Un solo mainframe de IBM puede reemplazar a miles de servidores blade más pequeños.   (verdad)
+		V		F
+3.- ________________ se utiliza de manera predominante como sistema operativo de red de área local.     (Windows Server)
